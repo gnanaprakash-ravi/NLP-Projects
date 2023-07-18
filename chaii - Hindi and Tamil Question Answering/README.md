@@ -1,4 +1,4 @@
-# CHAII - Hindia and Tamil Question Answering
+# CHAII - Hindi and Tamil Question Answering
 
 #### This contains the code for the result obtained using XLM-RoBERTa on chaii dataset.
 
